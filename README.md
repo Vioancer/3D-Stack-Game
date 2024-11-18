@@ -12,7 +12,6 @@
 >
 >   Backend: `Firebase` - handle user login and data storage
 
-![menu](./src/assets/img/menu.png)
 
 ## Game Rules
 
